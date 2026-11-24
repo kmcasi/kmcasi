@@ -15,14 +15,8 @@
 
 ## 📈 Stats and Activity
 
-
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=kmcasi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
   <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=kmcasi&theme=dark&hide_border=true&count_private=true" />
   <img alt="GitHub Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kmcasi&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-<h3>🏗️ Contributions (3D View) </h3> 
-<div align="center">
-  <img alt="3D Graph Contribution" source="https://raw.githubusercontent.com/kmcasi/kmcasi/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
